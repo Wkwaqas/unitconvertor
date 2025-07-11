@@ -78,3 +78,4 @@ elif conversion_category == "Temperature":
             
         result_text = f"{value} {from_unit} equals {converted_temp:.2f} {to_unit}"
         animate_result(result_text)
+print
